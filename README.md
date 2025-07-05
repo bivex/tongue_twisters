@@ -1,5 +1,5 @@
 # Tongue Twister Scraper and Diction Trainer
-[![Twisted by 👅](https://a.b-b.top/badge.svg?repo=tongue_twisters&label=Twisted%20by%20👅&background_color=d81b60&background_color2=ec407a&utm_source=github&utm_medium=readme&utm_campaign=badge)](https://a.b-b.top)
+[![Twisted by 👅](https://a.b-b.top/badge.svg?repo=tongue_twisters&label=Twisted&background_color=d81b60&background_color2=ec407a&utm_source=github&utm_medium=readme&utm_campaign=badge)](https://a.b-b.top)
 
 This repository contains two Go applications:
 
